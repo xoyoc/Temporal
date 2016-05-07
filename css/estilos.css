@@ -1,0 +1,19 @@
+.Area_cf
+{
+	height: 16em;
+	background: lightsteelblue;
+	text-align: center;
+	border: 1px solid;
+}
+.Area_patio
+{
+	height: 16em;
+	border: 1px solid;
+	background: lightblue;
+	border: 1px solid;
+	text-align: center;
+}
+.Area_cf:hover, .Area_patio:hover
+{
+	background: blue;
+}
